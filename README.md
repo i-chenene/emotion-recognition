@@ -103,7 +103,7 @@ This demo illustrates the applicability of the trained model for human–machine
 
 ---
 
-## Try it on Google Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaximeClere/Emotion-recognition/blob/main/emotion_rec.ipynb)  
+## Try it on Google Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/i-chenene/Emotion-recognition/blob/main/emotion_rec.ipynb)  
 You can open and run the notebook directly on Colab by clicking the badge above.  
 When running the notebook, the first cell will automatically download both the dataset and the pretrained model weights from Google Drive.  
 *NB : You don't need to run every cells to try (only cells : 1-2-3-6-7-9-14-15)*
