@@ -1,4 +1,4 @@
-# Facial Expression Recognition with CNNs
+sr# Facial Expression Recognition with CNNs
 
 <p align="center">
   <img src="app_demo.png" width="40%" alt="Real-time emotion recognition demo">
@@ -16,7 +16,7 @@ Built as a duo project.
 
 ## Why 5 classes instead of 7?
 
-FER2013 originally has 7 emotion labels, but "disgust" and "fear" are severely underrepresented and frequently mislabeled even by humans. Dropping them reduced label noise and let us focus on classes where the model could actually learn meaningful features — a deliberate tradeoff between coverage and reliability.
+FER2013 originally has 7 emotion labels, but "disgust" and "fear" are severely underrepresented and frequently mislabeled even by humans. Dropping them reduced label noise and let us focus on classes where the model could actually learn meaningful features a deliberate tradeoff between coverage and reliability.
 
 ---
 
