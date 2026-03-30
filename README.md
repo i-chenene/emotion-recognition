@@ -1,4 +1,4 @@
-sr# Facial Expression Recognition with CNNs
+# Facial Expression Recognition with CNNs
 
 <p align="center">
   <img src="app_demo.png" width="40%" alt="Real-time emotion recognition demo">
