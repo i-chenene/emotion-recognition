@@ -6,7 +6,7 @@
 
 ## What this is
 
-A CNN that classifies facial expressions in real-time from a webcam feed. Built with **PyTorch** on the **FER2013 dataset** (restricted to 5 emotion classes), reaching **73% accuracy** — competitive with published baselines for a vanilla CNN on this notoriously noisy dataset.
+A CNN that classifies facial expressions in real-time from a webcam feed. Built with **PyTorch** on the **FER2013 dataset** (restricted to 5 emotion classes), reaching **73% accuracy**.
 
 Built as a duo project.
 
@@ -84,7 +84,7 @@ It runs smoothly on CPU. Main failure cases: extreme head poses, poor lighting, 
 - **Haar cascades are outdated** for face detection. MTCNN or RetinaFace would give better crops, especially on edge cases.
 - **We didn't try transfer learning.** Fine-tuning a pretrained backbone (even something small like MobileNet) would probably beat our CNN with less training time.
 
-These aren't just "future work" bullet points — they're the things we'd actually do if we continued the project.
+These aren't just "future work" bullet points they're the things we'd actually do if we continued the project.
 
 ---
 
